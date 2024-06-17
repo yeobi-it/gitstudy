@@ -10,6 +10,7 @@ public class GitstudyApplication {
         System.out.println("new line");
         System.out.println("hiy");
         System.out.println("min");
+        System.out.println("font test");
         SpringApplication.run(GitstudyApplication.class, args);
     }
 
